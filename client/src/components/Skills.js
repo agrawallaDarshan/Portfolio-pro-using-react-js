@@ -3,7 +3,7 @@ import { List, Avatar } from "antd";
 const Skills = () => {
   const data = [
     {
-      title: "Ant Design Title Project",
+      title: "Ant Design Title skills",
     },
     {
       title: "Ant Design Title 2",

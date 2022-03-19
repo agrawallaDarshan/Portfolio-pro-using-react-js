@@ -1,10 +1,18 @@
 const About = () => {
   return (
-    <div className="container-fluid my-5">
+    <div className="container-fluid p-5 bg-about">
       <div className="row">
         <div className="col-md-8 offset-md-2">
-          <h3 className="text-center">About Me</h3>
-          <div className="d-flex justify-content-center">
+          <h3
+            className="text-center"
+            style={{
+              fontFamily: "Staatliches",
+              letterSpacing: "1.5px"
+            }}
+          >
+            ABOUT ME
+          </h3>
+          <div className="d-flex justify-content-center text-center">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa
             quasi dignissimos perferendis officia consequuntur possimus
             reprehenderit aliquid laboriosam autem quos inventore excepturi

@@ -10,7 +10,8 @@ import Typical from "react-typical";
 
 const ProfileHome = () => {
   return (
-    <div className="container-fluid">
+    <>
+    <div className="container-fluid bg-home">
       <div className="row">
         <div className="col-md-8 offset-md-2">
           <div className="row">
@@ -56,6 +57,7 @@ const ProfileHome = () => {
         </div>
       </div>
     </div>
+    </>
   );
 };
 
