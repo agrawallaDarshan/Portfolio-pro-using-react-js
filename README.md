@@ -19,7 +19,8 @@ You may also see any lint errors in the console.
 - It contains digital resume viewing feature, the most convenient way of viewing someone profile.
 - It is highly responsible and user-friendly.
 
-#### You can contribute on the following features
-- [] Adding proper background image/color to digital resume and about me sections.
-- [] Making a responsive and informative footer section.
-- [] Improving the font style and color.
+#### You can contribute on the following features by
+- [ ] Adding proper background image/color to digital resume and about me sections.
+- [ ] Making a responsive and informative footer section.
+- [ ] Improving the font style and color.
+- [ ] Creating a useful and instructive navbar using bootstrap/ANT Design/Material UI.
